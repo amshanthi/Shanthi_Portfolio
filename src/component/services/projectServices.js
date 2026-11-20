@@ -31,6 +31,16 @@ const projects = [
         demo: "https://movieapp-8uo99o18c-shanthis-projects-52be68d7.vercel.app/",
         github: "https://github.com/amshanthi/MovieApp",
         category: "react",
+    }, {
+        id: 4,
+        title: "TaskTrek",
+        description:
+            "Web-based todo application with add, delete, and drag-and-drop task management features using Local Storage.",
+        tech: ["React", "JavaScript", "CSS", "LocalStorage"],
+        image: "/projects/movie-site.png",
+        demo: "https://todolist-xi-two-50.vercel.app/",
+        github: "https://github.com/amshanthi/ToDoTask",
+        category: "react",
     },
 ];
 const skills = [
