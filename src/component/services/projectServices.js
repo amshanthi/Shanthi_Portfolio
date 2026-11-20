@@ -10,17 +10,17 @@ const projects = [
         github: "https://github.com/amshanthi/GameHub",
         category: "game",
     },
-    {
-        id: 2,
-        title: "NextCart E-Commerce ",
-        description:
-            "A modern shopping application with product browsing and cart functionality.",
-        tech: ["React", "JavaScript", "CSS", "Tailwind CSS"],
-        image: "/projects/nextcart.png",
-        demo: "/nextcart",
-        github: "#",
-        category: "react",
-    },
+    // {
+    //     id: 2,
+    //     title: "NextCart E-Commerce ",
+    //     description:
+    //         "A modern shopping application with product browsing and cart functionality.",
+    //     tech: ["React", "JavaScript", "CSS", "Tailwind CSS"],
+    //     image: "/projects/nextcart.png",
+    //     demo: "/nextcart",
+    //     github: "#",
+    //     category: "react",
+    // },
     {
         id: 3,
         title: "MovieFlix",
